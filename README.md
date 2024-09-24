@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @auditee 
 - Research Intern at IIT Kharagpur'24
-- 👀 I’m interested in FULL STACK & WEB DEVELOPMENT & MACHINE LEARNING PROJECTS
+- 👀 I’m interested in WEB DEVELOPMENT & MACHINE LEARNING PROJECTS
 - 🌱 I’m currently learning DSA,Python,WEB DEVELOPPPING,MACHINE LEARNING
 
 
