@@ -30,3 +30,21 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=auditee" alt="auditee" /></a> </p>
 
+<div align="center">
+<!--     <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=apurva313&theme=dark" />
+    <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=apurva313&theme=dark" />
+    <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=apurva313&theme=dark" />
+    <img height="155em" src="https://streak-stats.demolab.com?user=apurva313&theme=dark" /> -->
+    
+
+    
+  [![](https://raw.githubusercontent.com/auditee/auditee/master/assets/dark/0-profile-details.svg)](https://github.com/auditee/auditee)
+  [![](https://raw.githubusercontent.com/auditee/auditee/master/assets/dark/1-repos-per-language.svg)](https://github.com/auditee/auditee) [![](https://raw.githubusercontent.com/auditee/auditee/master/assets/dark/2-most-commit-language.svg)](https://github.com/auditee/auditee)
+  [![](https://raw.githubusercontent.com/auditee/auditee/master/assets/dark/3-stats.svg)](https://github.com/apurva313/auditee) [![](https://raw.githubusercontent.com/auditee/auditee/master/assets/dark/4-productive-time.svg)](https://github.com/auditee/auditee)
+
+  <img   src="https://github-readme-stats.vercel.app/api/top-langs?username=auditee&show_icons=true&locale=en&layout=compact&theme=dark" alt="auditee" />
+    <img   src="https://github-readme-stats.vercel.app/api?username=auditee&show_icons=true&locale=en&theme=dark" alt="auditee" />
+        <img src="https://streak-stats.demolab.com?user=auditee&theme=dark" /> 
+
+</div>
+
